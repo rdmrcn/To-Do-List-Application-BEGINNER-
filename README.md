@@ -1,4 +1,4 @@
- Number Guessing Game
+Number Guessing Game
  mde by Reha Demircan in 09.2024
 A number guessing game where the program randomly selects a number between 1 and 100, and the user has to guess it.
 ## Gameplay
